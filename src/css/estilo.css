@@ -34,7 +34,7 @@ fieldset {
     padding: 0 8rem;
     max-width: 1440px;
 }
-.plano-de-fundo{
+.plano-de-fundo {
     position: relative;
     background-image: url(../images/bg-intro-desktop.png);
     background-size: cover;
